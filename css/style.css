@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-size: 25px;
+    background-color: lightgreen;
+}
+a{
+    text-decoration: none;
+}
+img{
+    margin: 0 auto;
+}
+ul, li{
+    list-style: none;
+}
+
+
+/*--- Heading Section Start ---*/
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/*-- Heading Section End --*/
+
+/*-- Body Section Start-- */
+.one{
+    font-size: larger;
+}
+
+.two{
+    font-weight: 900;
+    font-size: 20px;
+}
+.three{
+    font-family: fantasy;
+}
+.four{
+    font-style: italic;
+}
+.five{
+    color: blue;
+    text-transform: uppercase;
+}
+.six{
+    text-transform: capitalize;
+}
+/*-- Body Section End-- */
