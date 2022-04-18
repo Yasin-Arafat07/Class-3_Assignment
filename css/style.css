@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-size: 25px;
-    /* background-color: lightgreen; */
 }
 a{
     text-decoration: none;
@@ -15,217 +14,18 @@ ul, li{
     list-style: none;
 }
 
-/*-- Table Design Section --*/
-.parant{
-    width: 1000px;
-    height: 1000px;
+/*--- Margin and Padding Section Start ---*/
+.ewl{
+    width: 600px;
+    height: 550px;
     margin: 0 auto;
+    margin-top: 150px;
+    padding: 100px 50px;
+    text-align: center;
+    border: 5px solid #106393;
+    
+    background-color: #49f3f6ff;
 }
-.a1{
-    width: auto;
-    height: 500px;
-    background-color: aqua;
-}
-.a2{
-    height: 500px;
-    background-color: aquamarine;
-}
-.a5{
-    width: 500px;
-    height: 500px;
-    background-color: aqua;
-    float: left;
-}
-.a6{
-    width: 500px;
-    height: 500px;
-    background-color: darkcyan;
-    float: left;
-}
-.a3{
-    width: 500px;
-    height: 500px;
-    background-color: violet;
-    float: left;
-}
-.a7{
-    width: auto;
-    height: 100px;
-    background-color: aqua;
-}
-.a13{
-    width: 100px;
-    height: 100px;
-    background-color: #7FB3D5;
-    float: left;
-}
-.a14{
-    width: 100px;
-    height: 100px;
-    background-color: #5499C7 ;
-    float: left;
-}
-.a15{
-    width: 100px;
-    height: 100px;
-    background-color: #2980B9;
-    float: left;
-}
-.a16{
-    width: 100px;
-    height: 100px;
-    background-color: #2471A3;
-    float: left;
-}
-.a17{
-    width: 100px;
-    height: 100px;
-    background-color: #1F618D;
-    float: left;
-}
-.a8{
-    width: auto;
-    height: 100px;
-    background-color: darkgoldenrod;
-}
-.a18{
-    width: 100px;
-    height: 100px;
-    background-color: #D2B4DE;
-    float: left;
-}
-.a19{
-    width: 100px;
-    height: 100px;
-    background-color: #C39BD3 ;
-    float: left;
-}
-.a20{
-    width: 100px;
-    height: 100px;
-    background-color: #A569BD;
-    float: left;
-}
-.a21{
-    width: 100px;
-    height: 100px;
-    background-color: #8E44AD;
-    float: left;
-}
-.a22{
-    width: 100px;
-    height: 100px;
-    background-color: #7D3C98;
-    float: left;
-}
-.a9{
-    width: auto;
-    height: 100px;
-    background-color: darkgray;
-}
-.a23{
-    width: 100px;
-    height: 100px;
-    background-color: #D7BDE2;
-    float: left;
-}
-.a24{
-    width: 100px;
-    height: 100px;
-    background-color: #C39BD3  ;
-    float: left;
-}
-.a25{
-    width: 100px;
-    height: 100px;
-    background-color: #AF7AC5;
-    float: left;
-}
-.a26{
-    width: 100px;
-    height: 100px;
-    background-color: #9B59B6;
-    float: left;
-}
-.a27{
-    width: 100px;
-    height: 100px;
-    background-color: #884EA0 ;
-    float: left;
-}
-.a10{
-    width: auto;
-    height: 100px;
-    background-color: darkgreen;
-}
-.a28{
-    width: 100px;
-    height: 100px;
-    background-color: #F5B7B1;
-    float: left;
-}
-.a29{
-    width: 100px;
-    height: 100px;
-    background-color: #F1948A  ;
-    float: left;
-}
-.a30{
-    width: 100px;
-    height: 100px;
-    background-color: #EC7063;
-    float: left;
-}
-.a31{
-    width: 100px;
-    height: 100px;
-    background-color: #E74C3C;
-    float: left;
-}
-.a32{
-    width: 100px;
-    height: 100px;
-    background-color: #CB4335 ;
-    float: left;
-}
-.a11{
-    width: auto;
-    height: 100px;
-    background-color: darkkhaki;
-}
-.a33{
-    width: 100px;
-    height: 100px;
-    background-color: #E6B0AA;
-    float: left;
-}
-.a34{
-    width: 100px;
-    height: 100px;
-    background-color: #D98880  ;
-    float: left;
-}
-.a35{
-    width: 100px;
-    height: 100px;
-    background-color: #CD6155;
-    float: left;
-}
-.a36{
-    width: 100px;
-    height: 100px;
-    background-color: #C0392B ;
-    float: left;
-}
-.a37{
-    width: 100px;
-    height: 100px;
-    background-color: #A93226 ;
-    float: left;
-}
-.a4{
-    width: 500px;
-    height: 500px;
-    background-color: bisque;
-    float: left;
+p{
+    font-size: 20px;
 }
