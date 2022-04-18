@@ -15,12 +15,24 @@ ul, li{
 }
 
 /*--- Margin and Padding Section Start ---*/
+h1{
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin-left: 50px;
+}
 .ewl{
     width: 600px;
     height: 550px;
     margin: 0 auto;
     margin-top: 150px;
-    padding: 100px 50px;
+    padding: 30px 50px;
     text-align: center;
     border: 5px solid #106393;
     
